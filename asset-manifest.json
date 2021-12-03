@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/cliftontemple/static/css/main.38373424.chunk.css",
-    "main.js": "/cliftontemple/static/js/main.edb03881.chunk.js",
-    "main.js.map": "/cliftontemple/static/js/main.edb03881.chunk.js.map",
-    "runtime-main.js": "/cliftontemple/static/js/runtime-main.b912fb64.js",
-    "runtime-main.js.map": "/cliftontemple/static/js/runtime-main.b912fb64.js.map",
+    "main.css": "/cliftontemple/static/css/main.8189d217.chunk.css",
+    "main.js": "/cliftontemple/static/js/main.ac901b02.chunk.js",
+    "main.js.map": "/cliftontemple/static/js/main.ac901b02.chunk.js.map",
+    "runtime-main.js": "/cliftontemple/static/js/runtime-main.f43b78f4.js",
+    "runtime-main.js.map": "/cliftontemple/static/js/runtime-main.f43b78f4.js.map",
     "static/css/2.f38452ca.chunk.css": "/cliftontemple/static/css/2.f38452ca.chunk.css",
-    "static/js/2.dc65d41b.chunk.js": "/cliftontemple/static/js/2.dc65d41b.chunk.js",
-    "static/js/2.dc65d41b.chunk.js.map": "/cliftontemple/static/js/2.dc65d41b.chunk.js.map",
-    "static/js/3.f4229c19.chunk.js": "/cliftontemple/static/js/3.f4229c19.chunk.js",
-    "static/js/3.f4229c19.chunk.js.map": "/cliftontemple/static/js/3.f4229c19.chunk.js.map",
+    "static/js/2.0c202e63.chunk.js": "/cliftontemple/static/js/2.0c202e63.chunk.js",
+    "static/js/2.0c202e63.chunk.js.map": "/cliftontemple/static/js/2.0c202e63.chunk.js.map",
+    "static/js/3.ac35a662.chunk.js": "/cliftontemple/static/js/3.ac35a662.chunk.js",
+    "static/js/3.ac35a662.chunk.js.map": "/cliftontemple/static/js/3.ac35a662.chunk.js.map",
     "index.html": "/cliftontemple/index.html",
     "static/css/2.f38452ca.chunk.css.map": "/cliftontemple/static/css/2.f38452ca.chunk.css.map",
-    "static/css/main.38373424.chunk.css.map": "/cliftontemple/static/css/main.38373424.chunk.css.map",
-    "static/js/2.dc65d41b.chunk.js.LICENSE.txt": "/cliftontemple/static/js/2.dc65d41b.chunk.js.LICENSE.txt",
+    "static/css/main.8189d217.chunk.css.map": "/cliftontemple/static/css/main.8189d217.chunk.css.map",
+    "static/js/2.0c202e63.chunk.js.LICENSE.txt": "/cliftontemple/static/js/2.0c202e63.chunk.js.LICENSE.txt",
     "static/media/1.6d2e397f.png": "/cliftontemple/static/media/1.6d2e397f.png",
     "static/media/2.ff79958e.JPG": "/cliftontemple/static/media/2.ff79958e.JPG",
     "static/media/3.fc66bb61.JPG": "/cliftontemple/static/media/3.fc66bb61.JPG",
@@ -26,10 +26,10 @@
     "static/media/font-awesome.min.css": "/cliftontemple/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.b912fb64.js",
+    "static/js/runtime-main.f43b78f4.js",
     "static/css/2.f38452ca.chunk.css",
-    "static/js/2.dc65d41b.chunk.js",
-    "static/css/main.38373424.chunk.css",
-    "static/js/main.edb03881.chunk.js"
+    "static/js/2.0c202e63.chunk.js",
+    "static/css/main.8189d217.chunk.css",
+    "static/js/main.ac901b02.chunk.js"
   ]
 }
